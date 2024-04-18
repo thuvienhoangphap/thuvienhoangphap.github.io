@@ -1,5 +1,6 @@
 ---
 title: KINH DIỆU PHÁP LIÊN HOA PHẨM PHỔ MÔN
+weight: 5
 ---
 
 KINH DIỆU PHÁP LIÊN HOA PHẨM PHỔ MÔN

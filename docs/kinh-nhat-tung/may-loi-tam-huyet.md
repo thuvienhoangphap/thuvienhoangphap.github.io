@@ -1,4 +1,7 @@
-MẤY LỜI TÂM HUYẾT
+---
+title: MẤY LỜI TÂM HUYẾT
+weight: 6
+---
 MẤY LỜI TÂM HUYẾT
 
 Thuyết pháp, giảng kinh, viết sách giáo lý nhà Phật hoặc in kinh sách đem phát cho mọi người xem, để họ sớm giác ngộ, được như thế hạnh phúc không gì bằng. Đó gọi là Pháp thí.

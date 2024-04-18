@@ -1,4 +1,7 @@
-NGHI THỨC SÁM HỐI HỒNG DANH
+---
+title: NGHI THỨC SÁM HỐI HỒNG DANH
+weight: 2
+---
 NGHI THỨC SÁM HỐI HỒNG DANH
 
 KỆ TÁN PHẬT

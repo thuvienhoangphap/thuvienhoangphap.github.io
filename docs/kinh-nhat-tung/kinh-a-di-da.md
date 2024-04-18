@@ -1,4 +1,7 @@
-KINH A DI ĐÀ
+---
+title: KINH A DI ĐÀ
+weight: 4
+---
 KINH A-DI-ĐÀ
 
 KỆ TÁN PHẬT

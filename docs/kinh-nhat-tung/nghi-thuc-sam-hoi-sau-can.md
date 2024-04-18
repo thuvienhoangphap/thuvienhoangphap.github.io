@@ -1,8 +1,8 @@
 ---
-weight: 2
+title: NGHI THỨC SÁM HỐI SÁU CĂN
+weight: 3
 ---
 
-NGHI THỨC SÁM HỐI SÁU CĂN
 NGHI THỨC SÁM HỐI SÁU CĂN  
 
 KỆ TÁN PHẬT
