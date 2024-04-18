@@ -1,5 +1,5 @@
 ---
-title: NGHI THỨC SÁM HỐI SÁU CĂN
+title: Nghi Thức Sám Hối Sáu Căn
 weight: 3
 ---
 

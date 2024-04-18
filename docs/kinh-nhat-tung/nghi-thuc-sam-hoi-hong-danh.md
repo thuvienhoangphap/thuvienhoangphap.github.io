@@ -1,5 +1,5 @@
 ---
-title: NGHI THỨC SÁM HỐI HỒNG DANH
+title: Nghi Thức Sám Hối Hồng Danh
 weight: 2
 ---
 NGHI THỨC SÁM HỐI HỒNG DANH

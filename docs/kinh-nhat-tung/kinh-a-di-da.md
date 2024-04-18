@@ -1,5 +1,5 @@
 ---
-title: KINH A DI ĐÀ
+title: Kinh A Di Đà
 weight: 4
 ---
 KINH A-DI-ĐÀ

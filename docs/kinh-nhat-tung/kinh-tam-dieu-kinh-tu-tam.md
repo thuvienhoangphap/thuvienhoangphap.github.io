@@ -1,5 +1,5 @@
 ---
-title: KINH TÁM ĐIỀU - KINH TỪ TÂM
+title: Kinh Tám Điều - Kinh Từ Tâm
 weight: 1
 ---
 

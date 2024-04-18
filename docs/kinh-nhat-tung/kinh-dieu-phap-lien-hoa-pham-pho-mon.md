@@ -1,5 +1,5 @@
 ---
-title: KINH DIỆU PHÁP LIÊN HOA PHẨM PHỔ MÔN
+title: Kinh Diệu Pháp Liên Hoa Phẩm Phổ Môn
 weight: 5
 ---
 
