@@ -11,4 +11,4 @@ plugins:
   - mkdocs-nav-weight:
       section_renamed: true
 copyright: >-
-  <a href="https://thuvienhoangphap.github.io" target="_blank">Thư Viện Hoằng Pháp</a> by <a href="https://miti99.dev" target="_blank">miti99</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
+  <a href="https://thuvienhoangphap.github.io" target="_blank">Thư Viện Hoằng Pháp</a> by <a href="https://tiennm99.github.io" target="_blank">miti99</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>

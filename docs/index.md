@@ -2,10 +2,10 @@
 
 ## Về bản thân mình
 
-Mình là [miti99](https://miti99.dev), một anh bạn có chút kiến thức về lập trình, đang làm trong lĩnh vực công nghệ
+Mình là [miti99](https://tiennm99.github.io), một anh bạn có chút kiến thức về lập trình, đang làm trong lĩnh vực công nghệ
 thông tin. Các bạn có thể tìm hiểu thêm về mình qua các phương tiện sau:
 
-- [Website](https://miti99.dev)
+- [Website](https://tiennm99.github.io)
 - [GitHub](https://github.com/tiennm99)
 - [Facebook](https://www.facebook.com/tiennm99)
 
