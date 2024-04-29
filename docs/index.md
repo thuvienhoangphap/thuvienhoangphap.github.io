@@ -36,3 +36,13 @@ _(Thay vì `Thư Viện Kinh Sách` hay `Thư Viện Phật Giáo`,...)_
 Như đã đề cập ở trên, nguồn tài liệu mình tiếp cận đầu tiên và nhiều nhất đến từ Thư viện chùa Hoằng Pháp, nên mình lấy
 tên này như một cách tri ân. Bên cạnh đó từ `hoằng pháp` cũng rất hay và ý nghĩa, phù hợp với mục đích của mình lúc
 đầu - giúp Phật giáo dễ tiếp cận hơn với mọi người.
+
+## Cảm ơn
+
+Dự án này được thực hiện bằng cách áp dụng các công nghệ sau:
+
+- [GitHub](https://github.com): Nền tảng lưu trữ mã nguồn
+- [MkDocs](https://www.mkdocs.org): Công cụ tạo trang web tĩnh từ Markdown
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material): Theme cho MkDocs
+- [GitHub Pages](https://pages.github.com): Dịch vụ hosting miễn phí của GitHub, nơi host trang web chính [https://thuvienhoangphap.github.io](https://thuvienhoangphap.github.io)
+- [Netlify](https://www.netlify.com): Dịch vụ hosting miễn phí, nơi host trang web thử nghiệm [https://thuvienhoangphap.netlify.app](https://thuvienhoangphap.netlify.app)
