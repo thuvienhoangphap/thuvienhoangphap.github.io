@@ -1,5 +1,23 @@
 [build]
-  command = "mkdocs build"
+  command = """
+    sudo apt-get update
+    sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
+    curl https://pyenv.run | bash
+
+    export PATH="$HOME/.pyenv/bin:$PATH"
+    eval "$(pyenv init --path)"
+
+    pyenv install 3.12.0
+    pyenv global 3.12.0
+
+    python3.12 -m venv venv
+    source venv/bin/activate
+
+    python -m pip install -r requirements.txt
+
+    mkdocs build
+  """
+
+  # Specify the directory where the built site is located
   publish = "site"
-[build.environment]
-  PYTHON_VERSION = "3.8"
