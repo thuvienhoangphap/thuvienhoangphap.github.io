@@ -10,5 +10,9 @@ plugins:
   - search
   - mkdocs-nav-weight:
       section_renamed: true
+extra:
+  analytics:
+    provider: google
+    property: G-K848VVTHBW
 copyright: >-
   <a href="https://thuvienhoangphap.github.io" target="_blank">Thư Viện Hoằng Pháp</a> by <a href="https://tiennm99.github.io" target="_blank">miti99</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
