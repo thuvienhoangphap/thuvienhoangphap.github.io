@@ -1,13 +1,5 @@
-# netlify.toml
 [build]
-  command = """
-    curl https://pyenv.run | bash
-    export PATH="$HOME/.pyenv/bin:$PATH"
-    eval "$(pyenv init --path)"
-    pyenv install 3.12.2
-    pyenv global 3.12.2
-
-    python -m pip install -r requirements.txt
-    mkdocs build
-  """
+  command = "mkdocs build"
   publish = "site"
+[build.environment]
+  PYTHON_VERSION = "3.8"
