@@ -1,3 +1,7 @@
+# netlify.toml
 [build]
   command = "mkdocs build"
   publish = "site"
+
+[build.environment]
+  PYTHON_VERSION = "3.12.2"
