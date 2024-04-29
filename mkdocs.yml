@@ -1,4 +1,5 @@
 site_name: Thư Viện Hoằng Pháp
+repo_url: https://github.com/thuvienhoangphap/thuvienhoangphap.github.io
 theme:
   name: material
   features:
