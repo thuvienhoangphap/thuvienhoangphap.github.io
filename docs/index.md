@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Giới thiệu
 
 ## Về bản thân mình

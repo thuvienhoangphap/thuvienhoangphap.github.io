@@ -1,20 +1,26 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Thư Viện Hoằng Pháp
 site_url: https://thuvienhoangphap.github.io
-repo_url: https://github.com/thuvienhoangphap/thuvienhoangphap.github.io
 theme:
   name: material
+  custom_dir: overrides
+  language: vi
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.footer
     - navigation.indexes
-  logo: assets/logo.png
-  favicon: assets/logo.png
 plugins:
+  - offline
   - search
   - mkdocs-nav-weight:
       section_renamed: true
 extra:
+  generator: false
   analytics:
     provider: google
     property: G-K848VVTHBW
 copyright: >-
   <a href="https://thuvienhoangphap.github.io" target="_blank">Thư Viện Hoằng Pháp</a> by <a href="https://tiennm99.github.io" target="_blank">miti99</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
+repo_url: https://github.com/thuvienhoangphap/thuvienhoangphap.github.io
+repo_name: thuvienhoangphap.github.io
