@@ -13,9 +13,7 @@ theme:
   features:
     - navigation.footer
     - navigation.indexes
-    - search.highlight
     - search.share
-    - search.suggest
 plugins:
   - offline
   - search
