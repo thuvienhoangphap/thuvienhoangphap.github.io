@@ -19,5 +19,4 @@
     mkdocs build
   """
 
-  # Specify the directory where the built site is located
   publish = "site"
