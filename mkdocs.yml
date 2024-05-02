@@ -4,6 +4,9 @@ site_url: https://thuvienhoangphap.github.io
 theme:
   name: material
   custom_dir: overrides
+  palette:
+    scheme: default
+    primary: purple
   language: vi
   logo: assets/logo.png
   favicon: assets/logo.png
