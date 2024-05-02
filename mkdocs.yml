@@ -16,7 +16,8 @@ theme:
     - search.share
 plugins:
   - offline
-  - search
+  - search:
+      lang: en
   - mkdocs-nav-weight:
       section_renamed: true
 extra:
