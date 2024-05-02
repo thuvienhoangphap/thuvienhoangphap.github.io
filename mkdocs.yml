@@ -13,6 +13,9 @@ theme:
   features:
     - navigation.footer
     - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
 plugins:
   - offline
   - search
@@ -23,7 +26,9 @@ extra:
   analytics:
     provider: google
     property: G-K848VVTHBW
-copyright: >-
-  <a href="https://thuvienhoangphap.github.io" target="_blank">Thư Viện Hoằng Pháp</a> by <a href="https://tiennm99.github.io" target="_blank">miti99</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
+copyright: |
+  Made by <a href="https://tiennm99.github.io">miti99</a> with ❤️ using <a href="https://www.mkdocs.org/" target="_blank">MkDocs</a> & <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs</a><br>
+  Copyright &copy; 2024 Thư Viện Hoằng Pháp. License:
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license">CC BY-NC 4.0</a><br>
 repo_url: https://github.com/thuvienhoangphap/thuvienhoangphap.github.io
 repo_name: thuvienhoangphap.github.io
