@@ -1,22 +1,22 @@
 [build]
-  command = """
-    sudo apt-get update
-    sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+  command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
+  publish = "public"
 
-    curl https://pyenv.run | bash
+[build.environment]
+  GO_VERSION = "1.22.2"
+  HUGO_VERSION = "0.125.2"
+  HUGO_ENABLEGITINFO = "true"
 
-    export PATH="$HOME/.pyenv/bin:$PATH"
-    eval "$(pyenv init --path)"
+[context.production.environment]
+  HUGO_ENV = "production"
 
-    pyenv install 3.12.2
-    pyenv global 3.12.2
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
-    python3.12 -m venv venv
-    source venv/bin/activate
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-    python -m pip install -r requirements.txt
-
-    mkdocs build
-  """
-
-  publish = "site"
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true
